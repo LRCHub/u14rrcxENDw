@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "老派約會之必要",
+  "base_artist": "MC 張天賦",
+  "createdAt": "2025-12-17T20:22:03.135048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "老派約會之必要 (Live)",
+      "artist": "MC 張天賦",
+      "has_synced": false,
+      "path": "select/01_老派約會之必要_(Live)_MC_張天賦.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "老派約會之必要 - Live",
+      "artist": "MC 張天賦",
+      "has_synced": false,
+      "path": "select/02_老派約會之必要_-_Live_MC_張天賦.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "老派約會之必要",
+      "artist": "MC 張天賦",
+      "has_synced": true,
+      "path": "select/03_老派約會之必要_MC_張天賦.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "老派約會之必要",
+      "artist": "MC Cheung Tinfu",
+      "has_synced": true,
+      "path": "select/04_老派約會之必要_MC_Cheung_Tinfu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "老派約會之必要",
+      "artist": "MC 張天賦",
+      "has_synced": false,
+      "path": "select/pl_01_老派約會之必要_MC_張天賦.txt"
+    }
+  ]
+}
